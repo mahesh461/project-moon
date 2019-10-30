@@ -14,7 +14,7 @@ mail:x:12:postfix
 man:x:15:
 dialout:x:18:
 floppy:x:19:
-games:x:20:
+animation:x:20:
 tape:x:33:
 video:x:39:
 ftp:x:50:
