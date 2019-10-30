@@ -16,7 +16,7 @@ dialout:x:18:
 floppy:x:19:
 animation:x:20:
 tape:x:33:
-video:x:39:
+animated:x:39:
 ftp:x:50:
 lock:x:54:
 audio:x:63:
